@@ -31,8 +31,8 @@ Will be contributing again to open source work this summer!
 
 <h2 align="center"📈 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkshah&show_icons=true&theme=radical" alt="kanishkshah" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkshah&layout=compact" alt="kanishkshah" />&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkshah&show_icons=true&theme=radical" alt="kanishkshah" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkshah&layout=compact" alt="kanishkshah" />&nbsp;&nbsp;
 </p>
 
 
