@@ -2,9 +2,7 @@
 
 <p align="center">
   <samp>
-I'm passionate about Computer Vision, specifically perception tasks, and decision making. My recent projects are currently awaiting to be published or private codebases for companies, as a result, my github usage for my public repos has declined considerably. 
-    
-Will be contributing again to open source work this summer!
+I'm passionate about Computer Vision, specifically perception tasks, and decision making. My recent projects are currently awaiting to be published or private codebases for companies, as a result, my github usage for my public repos has declined considerably. <br><br> Will be contributing again to open source work this summer!
   </samp><br><br>
 
 
