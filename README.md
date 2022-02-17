@@ -24,13 +24,13 @@ I'm passionate about Computer Vision, specifically perception tasks, and decisio
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%2300D9FF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%2300D9FF.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom:3px"/>&nbsp;&nbsp;
 </p>
 
 <h2 align="center"📈 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkshah&show_icons=true&theme=radical" alt="kanishkshah" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkshah&layout=compact" alt="kanishkshah" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkshah&show_icons=true&theme=radical" alt="kanishkshah" style="margin-bottom:3px" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkshah&layout=compact" alt="kanishkshah" style="margin-bottom:3px"/>&nbsp;&nbsp;
 </p>
 
 
