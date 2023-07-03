@@ -29,7 +29,7 @@ I'm passionate about Computer Vision, specifically perception tasks, and decisio
 
 <h2 align="center"📈 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkshah&show_icons=true&theme=radical" alt="kanishkshah" style="margin-bottom:3px" />&nbsp;&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kanishkshah&show_icons=true&theme=radical" alt="kanishkshah" style="margin-bottom:3px" />&nbsp;&nbsp; -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkshah&layout=compact" alt="kanishkshah" style="margin-bottom:3px"/>&nbsp;&nbsp;
 </p>
 
