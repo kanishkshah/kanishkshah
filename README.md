@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm passionate about Computer Vision, specifically perception tasks, and decision making. My recent projects are currently awaiting to be published or private codebases for companies, as a result, my github usage for my public repos has declined considerably. <br><br> Will be contributing again to open source work this summer!
+I'm passionate about Software and AI! Feel free to reach out to me using the below listed means.
   </samp><br><br>
 
 
@@ -37,7 +37,7 @@ I'm passionate about Computer Vision, specifically perception tasks, and decisio
 <h2 align="center" id="contact">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kanishk-shah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shahkanishk99@gmail.com?subject=Hello%Ayush,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kanishkt@usc.edu?subject=Hello%Kanishk,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_kanishk_shah/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
